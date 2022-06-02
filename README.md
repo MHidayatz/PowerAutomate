@@ -4,4 +4,4 @@
 
 | Number |  Notebook 	|
 | :---  | :--- 	|
-| 00 | [00_CreateUrgentLeaveinOutlook_20220502](https://github.com/MHidayatz/Machine_Learning_Data_Science_Bootcamp/blob/main/end-to-end-heart-disease-classification.ipynb) |
+| 00 | [00_CreateUrgentLeaveinOutlook_20220502](https://github.com/MHidayatz/PowerAutomate/blob/main/00_CreateUrgentLeaveinOutlook_20220502.zip) |
